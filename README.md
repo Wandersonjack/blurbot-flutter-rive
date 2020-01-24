@@ -1,6 +1,9 @@
 # flare_anim_xperiment
 
-First app testing flare animation
+ 1. Illustration in @Figma and export as SVG 
+ 2. Import into @rive.app and animate, then export as binary 
+ 3. Add package flare_flutter inside the pubspec and assets with flare file
+ 4. Integrate in flutter app using flare_actor defining the resources
 
 ## Getting Started
 
